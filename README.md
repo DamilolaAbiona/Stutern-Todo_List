@@ -11,7 +11,6 @@ it has options for Editing, Deleting and Completing Tasks.
 #Task 1
 
 
-#Page Link(https://mdtasktaracker.netlify.app/)
 
 
 #Author Damilola Abiona
