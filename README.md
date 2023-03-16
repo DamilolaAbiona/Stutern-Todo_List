@@ -1,4 +1,4 @@
-# Tod-List
+# Todo-List
 
 
 ## This project was created with Javascript, HTML and CSS  
@@ -13,4 +13,4 @@
 
 
 
-#Author Damilola Abiona
+# Author Damilola Abiona
